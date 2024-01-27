@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ReplicatedVitalityPlugin",
+	"Description": "Replicated Vitality Plugin provides an easy and fast experience with ready to use Health, Shield and Stamina Systems",
+	"Category": "Other",
+	"CreatedBy": "Vinipi Studios",
+	"CreatedByURL": "",
+	"DocsURL": "https://app.milanote.com/1RgGCJ1zrkFxc4?p=gKJsNKJAloX",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9bc89b55d11f4889afc18d28b7221262",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ReplicatedVitalityPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}
