@@ -18,11 +18,6 @@
 		{
 			"Name": "AnimationWarping",
 			"Enabled": true
-		},
-		{
-			"Name": "ReplicatedVitalityPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9bc89b55d11f4889afc18d28b7221262"
 		}
 	]
 }
