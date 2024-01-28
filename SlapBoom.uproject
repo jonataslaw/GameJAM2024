@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "ReplicatedVitalityPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9bc89b55d11f4889afc18d28b7221262"
 		}
 	]
